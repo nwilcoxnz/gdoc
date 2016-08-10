@@ -16,9 +16,11 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  height: 100%
 }
 body {
   margin: 0;
+  height: 100%
 }
 article,
 aside,
@@ -6938,4 +6940,7 @@ a.list-group-item-danger.active:focus {
 }
 .popover {
   color: #333333;
+}
+.text-justify {
+  text-align: justify;
 }
