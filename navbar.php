@@ -24,17 +24,6 @@
           <li><a href="services.php">Services</a></li>
           <li><a href="staff.php">Staff</a></li>
           <li><a href="contact.php">Contact</a></li>
-          <li class="dropdown">
-            <a href="more.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">More<span class="caret"></span></a>
-            <ul class="dropdown-menu" role="menu">
-              <li><a href="#">Fees</a></li>
-              <li><a href="#">Repeat Prescriptions</a></li>
-              <li><a href="#">After Hours</a></li>
-              <li><a href="#">FAQ</a></li>
-              <li><a href="#">Gallery</a></li>
-              <li><a href="#">Links</a></li>
-            </ul>
-          </li>
         </ul>
       </div>
     </div>

@@ -39,7 +39,7 @@ blue: #082050 -->
             min-height: 100%;
             height: auto !important;
             height: 100%;
-            margin: 0 auto -100px; /* the bottom margin is the negative value of the footer's height */
+            margin: 0 auto -50px; /* the bottom margin is the negative value of the footer's height */
         }
     </style>
 
@@ -51,8 +51,46 @@ blue: #082050 -->
 
     <div class="wrapper">
         <div class="col-lg-8 col-lg-offset-2">
-            <h1>Staff</h1>
-            <h4>We have friendly, diverse staff with a range of skills and specialties.</h4>
+            <h1>Services</h1>
+            <h4>We offer a range of medical and practice nursing services. For more information give us a call on 09 441 2352.</h4>
+
+            <h3>Medical Services</h3>
+            <ul>
+                <li>Adult Medicine</li>
+                <li>Paediatrics</li>
+                <li>Women's Health (incl. IUCD's, cervical smear, Mirena etc.)</li>
+                <li>Elderly Care</li>
+                <li>Obstetrics (full pregnancy and labour care)</li>
+                <li>Elective Caesarean Section antenatal care</li>
+                <li>Accident and Injury Management</li>
+                <li>Musculoskeletal Medicine and Joint Injections</li>
+                <li>General Extended Medicals (Immigration/LTSA/Insurance/Employment/Diving etc.)</li>
+                <li>Limited range of subsidised prescriptions available on site</li>
+                <li>Minor Surgery and Diathermy/Cautery (eg. moles/cysts/skin lesions etc)</li>
+            </ul>
+            <h3>Practice Nursing Services</h3>
+            <ul>
+                <li>General Primary Care Nursing Services</li>
+                <li>Paediatric Assessment</li>
+                <li>Laboratory Blood service on site</li>
+                <li>Paediatric & Adult Vaccinations</li>
+                <li>Travel Health and Vaccinations</li>
+                <li>Screening and Recall Services eg. Cervical smears/mammography/immunisation etc.</li>
+                <li>Pregnancy Tests and Family Planning Advice</li>
+                <li>Cervical Smear Nurse Specialist Service</li>
+                <li>Diabetic Care Nurse Specialist Service (free annual 'Get Checked' review)</li>
+                <li>Asthma Care Nurse Specialist Service</li>
+                <li>CarePlus Targeted Care for high dependency patients</li>
+                <li>Counselling</li>
+                <li>Wound Care and Management</li>
+                <li>Postnatal Midwifery Care (home and practice-based)</li>
+                <li>Prescription Review and Repeat Service</li>
+                <li>Electrocardiography (ECG)</li>
+                <li>Immediate Blood Glucose testing on site</li>
+                <li>Tympanometry Service (glue ear assessment and management)</li>
+                <li>Ear Syringing (wax removal)</li>
+                <li>Cryotherapy (Liquid Nitrogen)</li>
+            </ul>
         </div>
     </div>
     

@@ -57,7 +57,7 @@ blue: #082050 -->
                     <div class="text-center header">Contact</div>
                     <div class="panel-body text-center">
                         <p>Phone: (09) 44 123 52</p>
-                        <p>Email: office@glenfield-doctors.com</p>
+                        <p>Email: admin@glenfield-doctors.com</p>
                         <p>Fax: (09) 441 6176</p>
                     </div>
                 </div>

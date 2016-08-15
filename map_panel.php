@@ -44,8 +44,8 @@
     .header {
         background-color: #F5F5F5;
         color: #36A0FF;
-        height: 70px;
+        height: 50px;
         font-size: 27px;
-        padding: 10px;
+        padding: 5px;
     }
 </style>

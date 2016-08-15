@@ -23,6 +23,8 @@ blue: #082050 -->
     <!-- Cosmo Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+
     <style type="text/css">
         #jumbotron{
             background-color: #082050;
@@ -77,11 +79,9 @@ blue: #082050 -->
             </div>
             <div class="col-md-6">
                 <h3>Dr. Jon Wilcox</h3>
-                <h4>Qualifications:</h4>
-                <br>
-                <h4>Areas of interest:</h4>
-                <br>
-                <h4>Languages spoken:</h4>
+                <p> <i class="fa fa-medkit" aria-hidden="true"></i> General Practice</p>
+                <p> <i class="fa fa-graduation-cap" aria-hidden="true"></i> MBChB (Otago), DipObst, FRNZCGP</p>
+                <p> <i class="fa fa-globe" aria-hidden="true"></i> English</p>
             </div>
         </div>
 
@@ -94,11 +94,9 @@ blue: #082050 -->
             </div>
             <div class="col-md-6">
                 <h3>Dr. Saira Goroo</h3>
-                <h4>Qualifications:</h4>
-                <br>
-                <h4>Areas of interest:</h4>
-                <br>
-                <h4>Languages spoken:</h4>
+                <p> <i class="fa fa-medkit" aria-hidden="true"></i> General Practice</p>
+                <p> <i class="fa fa-graduation-cap" aria-hidden="true"></i> MBBS and MRNZCGP</p>
+                <p> <i class="fa fa-globe" aria-hidden="true"></i> English, Hindi, Kashmiri, Urdu</p>
             </div>
         </div>
 
@@ -111,19 +109,13 @@ blue: #082050 -->
             </div>
             <div class="col-md-6">
                 <h3>Dr. Nam Kim</h3>
-                <h4>Qualifications:</h4>
-                <br>
-                <h4>Areas of interest:</h4>
-                <br>
-                <h4>Languages spoken:</h4>
+                <p> <i class="fa fa-medkit" aria-hidden="true"></i> General Practice</p>
+                <p> <i class="fa fa-graduation-cap" aria-hidden="true"></i> MBChB (Otago), MRNZCGP</p>
+                <p> <i class="fa fa-globe" aria-hidden="true"></i> English, Korean</p>
             </div>
         </div>
-        <hr>
         <br>
-
-        <h1>Nurses</h1>
     </div>
-    
 
     <?php include 'footer.php';?>
     
