@@ -1,11 +1,3 @@
-<style type="text/css">
-  #navbar{
-      background-color: #082050;
-      padding: 20px;
-      position: relative;
-  }
-</style>
-
 <nav class="navbar navbar-default navbar-fixed-top topnav" id="navbar">
   <div class="col-lg-8 col-lg-offset-2">
     <div class="container-fluid ">

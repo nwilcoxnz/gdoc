@@ -23,37 +23,15 @@ blue: #082050 -->
     <!-- Cosmo Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
 
+    <!-- Font Awesome -->
     <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
 
+    <!-- Exrta Styling -->
+    <link href="css/custom_style.css" rel="stylesheet">
+
     <style type="text/css">
-        #jumbotron{
+        #navbar{
             background-color: #082050;
-            color: white;
-        }
-        #logo{
-            max-height: 200px;
-        }
-        #shore-care-logo{
-            max-width: 280px;
-            float: left;
-        }
-        .staff-image{
-            max-width: 350px;
-        }
-        @media (max-width: 1625px) {
-            .staff-image{
-                max-width: 300px;
-            }
-        }
-        @media (max-width: 1435px) {
-            .staff-image{
-                max-width: 250px;
-            }
-        }
-        @media (max-width: 1200px) {
-            .staff-image{
-                max-width: 320px;
-            }
         }
     </style>
 
@@ -66,12 +44,9 @@ blue: #082050 -->
     <div class="col-lg-8 col-lg-offset-2">
         <h1>Staff</h1>
         <h4>We have friendly, diverse staff with a range of skills and specialties.</h4>
-
         <br>
-
         <h1>Doctors</h1>
         <hr>
-
         <!-- Jon Wilcox -->
         <div class="row">
             <div class="col-md-4">
@@ -102,7 +77,7 @@ blue: #082050 -->
 
         <hr>
 
-        <!-- Saira Goroo -->
+        <!-- Nam Kim -->
         <div class="row">
             <div class="col-md-4">
                 <img src="img/nam.png" class="staff-image">

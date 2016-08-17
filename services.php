@@ -23,23 +23,12 @@ blue: #082050 -->
     <!-- Cosmo Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
 
+    <!-- Exrta Styling -->
+    <link href="css/custom_style.css" rel="stylesheet">
+
     <style type="text/css">
-        #jumbotron{
+        #navbar{
             background-color: #082050;
-            color: white;
-        }
-        #logo{
-            max-height: 200px;
-        }
-        #shore-care-logo{
-            max-width: 280px;
-            float: left;
-        }
-        .wrapper {
-            min-height: 100%;
-            height: auto !important;
-            height: 100%;
-            margin: 0 auto -50px; /* the bottom margin is the negative value of the footer's height */
         }
     </style>
 

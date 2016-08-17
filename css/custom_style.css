@@ -1,0 +1,91 @@
+#navbar{
+    background-color: transparent;
+    border-color: transparent;
+    padding: 20px;
+    position: relative;
+    color: #ccc;
+    }
+#jumbotron{
+    background-image: url('../img/garden.jpg');
+    color: white;
+    height: 550px;
+    margin-top: -112px;
+    padding: 100px;
+    padding-top: 150px;
+}
+#logo{
+    max-height: 250px;
+}
+#shore-care-logo{
+    max-width: 280px;
+    float: left;
+}
+.bullet-list-centre {
+  margin-left:  50px;
+  margin-bottom: 20px;
+}
+#jumbo-text{
+    padding-left: 120px;
+}
+@media (max-width: 1500px) {
+    #jumbo-text{
+        padding-left: 150px;
+    }
+}
+@media (max-width: 1200px) {
+    #jumbo-text{
+        padding-left: 200px;
+    }
+}
+@media (max-width: 990px) {
+    #jumbo-text{
+        padding-left: 0px;
+    }
+}
+@media (max-width: 991px) {
+    #jumbotron{
+        height: 650px;
+    }
+}
+@media (max-width: 650px) {
+    .bullet-list-centre {
+        margin-left: 50px;
+    }
+    #jumbotron{
+        height: 700px;
+    }
+}
+@media (max-width: 550px) {
+    #jumbotron{
+        margin-top: -182px;
+        height: 700px;
+    }
+    #jumbotron{
+        padding: 10px;
+        padding-top: 150px;
+    }
+}
+.staff-image{
+    max-width: 350px;
+}
+@media (max-width: 1625px) {
+    .staff-image{
+        max-width: 300px;
+    }
+}
+@media (max-width: 1435px) {
+    .staff-image{
+        max-width: 250px;
+    }
+}
+@media (max-width: 1200px) {
+    .staff-image{
+        max-width: 320px;
+    }
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -100px; /* the bottom margin is the negative value of the footer's height */
+}
